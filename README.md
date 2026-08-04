@@ -1,4 +1,4 @@
-# 🎬 Film Veri Analizi
+# 🎥 Film Veri Analizi
 
 Bu proje, [TMDB 5000 Film Veri Seti](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) kullanılarak sinema sektöründeki bütçe, gişe hasılatı ve popülerlik gibi dinamiklerin incelendiği bir veri analizi çalışmasıdır.
 

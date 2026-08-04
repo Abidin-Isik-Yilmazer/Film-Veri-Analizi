@@ -11,7 +11,7 @@ Bu proje, [TMDB 5000 Film Veri Seti](https://www.kaggle.com/datasets/tmdb/tmdb-m
 ## Proje Kapsamında Neler Yapıldı?
 
 * **Veri Ön İşleme:** Ham veri seti incelendi, hatalı/eksik kısımlar temizlenerek tablo analize hazır hale getirildi.
-* **En'ler (Top 10) Analizi:** En yüksek bütçeli, gişede en çok hasılat yapan ve izleyiciler tarafından en popüler bulunan filmler veri seti üzerinden listelenip sütun grafiği haline getirilerek görselleştirildi.
+* **En'ler (Top 10) Analizi:** Gişede en çok hasılat yapan filmler veri seti üzerinden listelenip sütun grafiği haline getirilerek görselleştirildi.
 * **Bütçe ve Gişe:** Film bütçeleri ile gelirleri arasındaki dağılım eğilimleri incelendi.
 * **Korelasyon Analizi:** Değişkenler arasındaki istatistiksel bağlar `corr()` fonksiyonu ile hesaplanıp, sonuçlar `heatmap` (ısı haritası) üzerinden görselleştirildi.
 
